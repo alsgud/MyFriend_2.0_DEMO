@@ -1,3 +1,8 @@
+**
+CHATBOT FEATURE TEMPORARILY DISABLED
+**
+
+
 properties:
 
     **Chat box**
